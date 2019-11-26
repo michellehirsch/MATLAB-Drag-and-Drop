@@ -8,7 +8,7 @@ To use:
 - Add the root directory to your path (do not add the @dragndrop directory).
 - Run any of the example files in the examples directory (dd_example1.m through dd_example5.m)
 
-These example files function as a basic tutorial on the interface. Additional documentation is available by typing "doc dragndrop"
-[![View dragndrop on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)]
+These example files function as a basic tutorial on the interface. Additional documentation is available by typing ```doc dragndrop```
 
-(https://www.mathworks.com/matlabcentral/fileexchange/4224-dragndrop)
+
+[![View dragndrop on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/4224-dragndrop)
